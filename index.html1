@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Furniture Assembly Service - Navi Mumbai</title>
+    <meta name="google-site-verification" content="54y4RX2A_bt0uC56xZx8cVAxsQVMvS5r64unwH8gXY" />
+    
+    <style>
+        body { font-family: Arial, sans-serif; margin: 0; padding: 0; text-align: center; background-color: #f4f4f4; }
+        header { background: #333; color: white; padding: 20px; }
+        .container { padding: 20px; }
+        .gallery { display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin: 20px 0; }
+        .gallery img { width: 300px; height: 250px; object-fit: cover; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); }
+        .btn-whatsapp { background-color: #25D366; color: white; padding: 15px 30px; text-decoration: none; border-radius: 5px; font-weight: bold; font-size: 1.2rem; display: inline-block; margin-top: 20px; }
+        footer { background: #333; color: white; padding: 10px; position: fixed; bottom: 0; width: 100%; }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Expert Furniture Assembly Services</h1>
+    <p>Navi Mumbai & Surrounding Areas</p>
+</header>
+
+<div class="container">
+    <h2>Our Latest Work</h2>
+    <div class="gallery">
+        <img src="IMG-20260317-WA0018.jpg" alt="Furniture Work 1">
+        <img src="IMG-20251227-WA0018.jpg" alt="Furniture Work 2">
+        <img src="IMG-20260319-WA0016.jpg" alt="Furniture Work 3">
+        <img src="IMG-20260301-WA0019.jpg" alt="Furniture Work 4">
+    </div>
+
+    <p>Professional assembly for IKEA, Pepperfry, and more!</p>
+    
+    <a href="https://wa.me/919930603706?text=Hello!%20I%20want%20to%20book%20a%20furniture%20assembly%20service." class="btn-whatsapp">
+       BOOK NOW ON WHATSAPP
+    </a>
+</div>
+
+<br><br><br> <footer>
+    <p>&copy; 2026 Furniture Assembly Service | Navi Mumbai</p>
+</footer>
+
+</body>
+</html>
