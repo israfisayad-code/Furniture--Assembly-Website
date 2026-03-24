@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Maharashtra Luxury Interiors</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <style>
+        body { font-family: 'Poppins', sans-serif; margin: 0; background-color: #121212; color: #e0e0e0; text-align: center; }
+        .container { max-width: 1000px; margin: 30px auto; background: #1e1e1e; border-radius: 20px; overflow: hidden; border: 1px solid #333; }
+        .header { background: linear-gradient(135deg, #d4af37, #b8860b); padding: 50px 20px; color: #000; }
+        .header h1 { margin: 0; font-size: 2.5em; text-transform: uppercase; font-weight: 900; }
+        .btn-whatsapp { background: #25D366; color: white; padding: 15px 30px; border-radius: 50px; text-decoration: none; display: inline-block; margin: 20px; font-weight: bold; }
+        .gallery-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px; padding: 20px; }
+        .gallery-item { background: #2a2a2a; border-radius: 15px; overflow: hidden; border: 1px solid #444; }
+        .gallery-item img { width: 100%; height: 350px; object-fit: cover; }
+        .gallery-caption { padding: 15px; font-weight: bold; background: #333; }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <div class="header">
+        <h1>MAHARASHTRA LUXURY INTERIORS</h1>
+        <p>Best Furniture Specialist in Navi Mumbai</p>
+    </div>
+
+    <a href="https://wa.me/918652875782" class="btn-whatsapp">
+        <i class="fab fa-whatsapp"></i> WhatsApp Chat Karo
+    </a>
+
+    <h2 style="color:#d4af37;">Welcome To My Website</h2>
+
+    <div class="gallery-grid">
+        <div class="gallery-item">
+            <img src="1774310624450.jpg" alt="Work 1">
+            <div class="gallery-caption">Premium Cabinet Work</div>
+        </div>
+
+        <div class="gallery-item">
+            <img src="1774302493066.jpg" alt="Work 2">
+            <div class="gallery-caption">Luxury Wardrobe Setup</div>
+        </div>
+
+        <div class="gallery-item">
+            <img src="1774302176517.jpg" alt="Work 3">
+            <div class="gallery-caption">Perfect Bed Assembly</div>
+        </div>
+    </div>
+</div>
+
+</body>
+</html>
